@@ -1,0 +1,19 @@
+Mon May  5 11:19:10 AM PKT 2025:
+fwupd/noble-updates 1.9.29-0ubuntu1~24.04.1ubuntu1 amd64 [upgradable from: 1.9.28-0ubuntu1~24.04.1]
+grub-common/noble-updates 2.12-1ubuntu7.3 amd64 [upgradable from: 2.12-1ubuntu7.1]
+grub-pc-bin/noble-updates 2.12-1ubuntu7.3 amd64 [upgradable from: 2.12-1ubuntu7.1]
+grub-pc/noble-updates 2.12-1ubuntu7.3 amd64 [upgradable from: 2.12-1ubuntu7.1]
+grub2-common/noble-updates 2.12-1ubuntu7.3 amd64 [upgradable from: 2.12-1ubuntu7.1]
+libfwupd2/noble-updates 1.9.29-0ubuntu1~24.04.1ubuntu1 amd64 [upgradable from: 1.9.28-0ubuntu1~24.04.1]
+linux-generic-hwe-24.04/noble-updates 6.11.0-25.25~24.04.1 amd64 [upgradable from: 6.11.0-24.24~24.04.1]
+linux-headers-generic-hwe-24.04/noble-updates 6.11.0-25.25~24.04.1 amd64 [upgradable from: 6.11.0-24.24~24.04.1]
+linux-image-generic-hwe-24.04/noble-updates 6.11.0-25.25~24.04.1 amd64 [upgradable from: 6.11.0-24.24~24.04.1]
+linux-libc-dev/noble-updates 6.8.0-59.61 amd64 [upgradable from: 6.8.0-58.60]
+linux-tools-common/noble-updates 6.8.0-59.61 all [upgradable from: 6.8.0-58.60]
+ubuntu-drivers-common/noble-updates 1:0.9.7.6ubuntu3.2 amd64 [upgradable from: 1:0.9.7.6ubuntu3.1]
+ubuntu-pro-client-l10n/noble-updates 35.1ubuntu0~24.04 amd64 [upgradable from: 34~24.04]
+ubuntu-pro-client/noble-updates 35.1ubuntu0~24.04 amd64 [upgradable from: 34~24.04]
+
+Mon May  5 12:00:02 PM PKT 2025:
+ubuntu-drivers-common/noble-updates 1:0.9.7.6ubuntu3.2 amd64 [upgradable from: 1:0.9.7.6ubuntu3.1]
+
