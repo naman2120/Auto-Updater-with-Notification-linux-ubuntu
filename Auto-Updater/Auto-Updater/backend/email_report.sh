@@ -5,7 +5,7 @@ EMAIL_FILE="$HOME/.auto_updater_email"
 
 if [[ ! -f "$EMAIL_FILE" ]]; then
     echo "No email address saved. Exiting." >&2
-    exit 1
+    exit 1   
 fi
     
 EMAIL=$(cat "$EMAIL_FILE")
