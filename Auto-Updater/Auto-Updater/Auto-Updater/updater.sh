@@ -7,4 +7,4 @@ if [ -n "$UPDATES" ]; then
   echo -e "$(date):\n$UPDATES\n" >> "$LOGFILE"
 else
   echo -e "$(date):\nSystem is up-to-date.\n" >> "$LOGFILE"
-fi
+fi      
